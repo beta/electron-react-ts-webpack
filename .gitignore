@@ -1,0 +1,9 @@
+node_modules/
+dist/
+yarn-error.log
+
+# Editor configs.
+.vscode
+
+# macOS files.
+.DS_Store
